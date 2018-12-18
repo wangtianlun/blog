@@ -50,6 +50,14 @@ Extract首先是取出的意思，应用Extract条件类型，会尝试寻找T�
 首先看等号的右侧，Pick是一个ts内置的映射类型，Pick的实现为
 
 ```javascript
+  type Pick<T, K extends keyof T> = {
+    [P in K]: T[P];
+  }
+```
+
+首先这个 "K extends keyof T"说明这个类型值必须为T类型属性的子集，也就是说假如有一个interface定义如下
+
+```javascript
   interface Student {
     name: string;
     age: number;
