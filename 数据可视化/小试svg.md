@@ -37,7 +37,7 @@ SVG文件可以转为base64编码，然后作为Data URI写入网页
 
 ### 常用的形状元素
 
-  ![常用的形状元素](https://img.souche.com/f2e/3707937a28d2b2cf4acd48eaf6a41272.png)
+  ![常用的形状元素](http://img.souche.com/f2e/3707937a28d2b2cf4acd48eaf6a41272.png)
 
 
 
