@@ -9,3 +9,5 @@
 - Electron
   - [小读Electron系统架构](https://github.com/wangtianlun/blog/blob/master/electron/%E5%B0%8F%E8%AF%BBElectron%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.md)
 
+- 数据可视化
+  - [小试SVG](https://github.com/wangtianlun/blog/blob/master/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%B0%8F%E8%AF%95svg.md)
