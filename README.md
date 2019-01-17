@@ -11,3 +11,6 @@
 
 - 数据可视化
   - [小试SVG](https://github.com/wangtianlun/blog/blob/master/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%B0%8F%E8%AF%95svg.md)
+
+- http
+  - [针对web开发者的浏览器缓存指南（译）](https://github.com/wangtianlun/blog/blob/master/http/%E9%92%88%E5%AF%B9web%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98%E6%8C%87%E5%8D%97(%E8%AF%91).md)
