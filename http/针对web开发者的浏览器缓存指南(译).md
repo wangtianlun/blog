@@ -16,7 +16,7 @@
 
 浏览器针对此站点没有任何的缓存文件，所以浏览器会向站点服务去请求所有所需的资源
 
-![image](https://img.souche.com/f2e/99227ede48680cf8f6b1b6e92bb65cbb.png)
+![image](https://img.souche.com/f2e/d12dc594cddcecaf1a780733f7c2142e.png)
 
 下面是一张首次访问维基百科首页的资源下载完之后的截图，底部状态栏显示出有265kb的数据传输到了浏览器中
 
