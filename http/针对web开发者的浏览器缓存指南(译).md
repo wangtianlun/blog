@@ -1,3 +1,6 @@
+[原文链接](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
+
+
 ### 概要
 
 缓存是一个非常重要同样也非常复杂的浏览器特性
