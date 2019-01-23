@@ -93,3 +93,7 @@ typescript中模块的一个关键特性就是，两个不同的模块绝不会�
 ### 模块的权衡
 
 正如在js文件和modules之间是一对一的关系，在typescript中模块源文件和它们对应的最终生成文件之间也是一对一的关系，这样所带来的影响就是根据目标的模块系统不能将多个模块源文件连接起来。当你的模块目标是commonjs或umd时，你不能使用outFile这个选项来输出文件，但随着typescript1.8及更高版本的发布，当目标target为amd或是system时就有可能可以使用outFile选项
+
+### 参考
+
+[typescript](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html)
