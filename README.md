@@ -18,3 +18,4 @@
 
 - nodejs
   - [node中一些名词解释](https://github.com/wangtianlun/blog/blob/master/nodejs/node%E4%B8%AD%E4%B8%80%E4%BA%9B%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.md)
+  - [The Node.js Event Loop, Timers, and process.nextTick()(译)](https://github.com/wangtianlun/blog/blob/master/nodejs/node%E4%B8%AD%E7%9A%84event-loop%2Ctimers%2Cprocess.nextTick.md)
