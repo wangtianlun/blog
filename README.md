@@ -3,6 +3,7 @@
 
 ## 文章列表
 - React之术
+  - [react与typescript搭配干活就是不累(译)](https://github.com/wangtianlun/blog/blob/master/react/react%E4%B8%8Etypescript%E6%90%AD%E9%85%8D%E5%B9%B2%E6%B4%BB%E5%B0%B1%E6%98%AF%E4%B8%8D%E7%B4%AF(%E8%AF%91).md)
 - TypeScript
   - [TypeScript的一些小用法](https://github.com/wangtianlun/blog/blob/master/typescript/TypeScript%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%94%A8%E6%B3%95.md)
   - [深入typescript系列1(译)](https://github.com/wangtianlun/blog/blob/master/typescript/%E6%B7%B1%E5%85%A5typescript%E7%B3%BB%E5%88%971(%E8%AF%91).md)
