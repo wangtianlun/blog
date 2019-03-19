@@ -23,7 +23,7 @@ HTTPS只不过就是SSL/TLS层之上的HTTP协议。因此所有的HTTP规则依
 
 一个比较常见的误区就是认为使用SSL/TLS需要更多的资源以及拖慢服务器的速度。这已经不再是事实，我们也不需要什么专门的加密设备。即使是Google，SSL/TLS层的占比也少于CPU负载的1%。此外，HTTPS的网络开销相较于HTTP也会低于2%。总而言之，因为一点点网络开销而放弃HTTPS是没有意义的。
 
-![image](http://img.souche.com/f2e/02bb3226cfb25a6eee73f2cad428a9f5.png)
+![image](https://img.souche.com/f2e/02bb3226cfb25a6eee73f2cad428a9f5.png)
 
 最新的TLS版本为TLS1.3（当时是2018年1月25日），TLS是SSL的继承者，在SSL3.0版本提供出来。从SSL到TLS的变化就是排除了互操作性。然而基本步骤还是没有变化。我们拥有三种不同的加密通道。首先是证书链的公钥基础设施，其次是为密钥交换提供公钥加密，最后是对称加密。此时，我们就拥有了对于数据传输的加密条件。
 
@@ -31,7 +31,7 @@ TLS会在一些重要的操作上使用hash，理论上可以使用任何的哈�
 
 HTTPS也越来越受到客户端的关注。隐私性和安全性问题一直都存在，但是随着在线可访问的数据和服务逐渐增多，人们开始越来越关心这些问题。这里有一个很有用的浏览器插件叫做“HTTPS Everywhere”，它加密了我们同大多数网站的通信
 
-![image](http://img.souche.com/f2e/8c5d14ab5042a4ddd32e1bf25ac488df.png)
+![image](https://img.souche.com/f2e/8c5d14ab5042a4ddd32e1bf25ac488df.png)
 
 插件作者意识到许多网站只是部分支持HTTPS。插件允许我们为那些只部分支持HTTPS的站点重写请求，或者，我们也可以选择性的屏蔽HTTP请求
 
@@ -54,5 +54,5 @@ HTTPS也越来越受到客户端的关注。隐私性和安全性问题一直都
 12. Encrypted Handshake Message（Server）：这一步对应的是Server Finish消息，服务端也会把握手过程的消息生成摘要再用密钥加密，这是服务端发出的第一条加密消息，客户端收到后会用密钥解密，能解密出来，说明之前协商出来的密钥是一致的。
 13. Application Data：到这一步，双方已经协商出了同一份密钥，所有应用层的数据都会用这个密钥进行加密然后通过TCP传输
 
-![image](http://img.souche.com/f2e/c33fcde8393bcf700fa76115527589a7.png)
+![image](https://img.souche.com/f2e/c33fcde8393bcf700fa76115527589a7.png)
 
