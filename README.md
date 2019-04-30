@@ -24,4 +24,4 @@
 
 - 自检清单
   - html和css
-    - [水平垂直居中方案]()
+    - [水平垂直居中方案](https://github.com/wangtianlun/blog/blob/master/%E8%87%AA%E6%A3%80%E6%B8%85%E5%8D%95/html%E5%92%8Ccss/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E6%96%B9%E6%A1%88.md)
