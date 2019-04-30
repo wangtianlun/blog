@@ -21,3 +21,7 @@
   - [node中一些名词解释](https://github.com/wangtianlun/blog/blob/master/nodejs/node%E4%B8%AD%E4%B8%80%E4%BA%9B%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.md)
   - [The Node.js Event Loop, Timers, and process.nextTick()(译)](https://github.com/wangtianlun/blog/blob/master/nodejs/node%E4%B8%AD%E7%9A%84event-loop%2Ctimers%2Cprocess.nextTick.md)
   - [Node中如何搭配使用SSL与TLS(译)](https://github.com/wangtianlun/blog/blob/master/nodejs/Node%E4%B8%AD%E5%A6%82%E4%BD%95%E6%90%AD%E9%85%8D%E4%BD%BF%E7%94%A8SSL%E4%B8%8ETLS.md)
+
+- 自检清单
+  - html和css
+    - [水平垂直居中方案]()
